@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.073c9b0a.css",
+    "main.js": "/mysite/static/js/main.e503435c.js",
+    "static/js/787.7cb2e3e1.chunk.js": "/mysite/static/js/787.7cb2e3e1.chunk.js",
+    "static/media/neko01.jpg": "/mysite/static/media/neko01.c1c7f23e499ae018f0f8.jpg",
+    "index.html": "/mysite/index.html",
+    "main.073c9b0a.css.map": "/mysite/static/css/main.073c9b0a.css.map",
+    "main.e503435c.js.map": "/mysite/static/js/main.e503435c.js.map",
+    "787.7cb2e3e1.chunk.js.map": "/mysite/static/js/787.7cb2e3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e503435c.js"
+  ]
+}
