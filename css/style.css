@@ -1,0 +1,12 @@
+main {
+  padding: 30px 20px;
+  text-align: center;
+}
+
+figure {
+  margin-top: 20px;
+}
+
+figure figcaption {
+  margin-top: 8px;
+}
