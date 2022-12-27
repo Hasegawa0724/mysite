@@ -1,4 +1,15 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&display=swap');
+
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
+}
 
 main{
     padding: 30px 20px;
@@ -10,4 +21,26 @@ figure{
     figcaption{
         margin-top: 8px;
     }
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    li{
+        cursor: pointer;
+        padding: 8px;
+        &.current,
+        &:hover{
+            background-color: #ffa;
+        }
+        p{
+            margin-top: 5px;
+            font-size: 1.4rem;
+        }
+    }
+}
+
+button{
+    cursor: pointer;
 }
